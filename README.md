@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 My name is Sylvain, and I'm an iOS developer. <br />
-I'm passionate about creating beautiful and functional apps that make people's lives easier.
+I'm passionate about design and development.
 
 Thanks for stopping by 🙂
 
